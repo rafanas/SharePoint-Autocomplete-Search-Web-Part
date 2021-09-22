@@ -1,0 +1,35 @@
+#contact-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-result {
+    background-color: #f8f8f8;
+    border: 1px solid #a9a9a96b;
+    height: min-content;
+    line-height: 1.9;
+    padding: 10px;
+    margin: 6px;
+    width: 400px;
+}
+
+.contact-result a:visited {
+    color: transparent !important;
+}
+
+
+.field-updated {
+    background: #fffbec;
+    border: 1px solid #d99f17;
+}
+
+.gray-text {
+    color: gray;
+}
+
+.isChecked {
+    border: 1px solid #d99f17;
+    background: #fffbec;
+}
+
+
