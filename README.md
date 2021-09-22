@@ -1,6 +1,6 @@
 # SharePoint Search Web Part to Autopopulate Lookup Field
 
-SharePoint Searchwith autocomplete that allows to select a related list item and populate a lookup value with it. 
+SharePoint Search with autocomplete that allows to select a related list item and populate a lookup value with it. 
 
 ![alt text](https://raw.githubusercontent.com/rafanas/Sharepoint---Search-Web-Part/master/CPT2109221025-746x593.gif?token=APX3GJMVW6A5PJFZUD74TTLBJNGW6 "Sharepoint Search")
 
